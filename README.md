@@ -8,4 +8,4 @@ This is my first Arduino project created using Tinkercad.
 - 220Ω Resistor
 
 ## Description
-The LED blinks every 500 milliseconds.
+The LED blinks every 1000 milliseconds.
