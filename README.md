@@ -10,4 +10,13 @@ This is my first Arduino project created using Tinkercad.
 ## Description
 The LED blinks every 1000 milliseconds.
 and Build the Blink LED circuit three times:
+With 100 Ω
+With 220 Ω
+With 1 kΩ
+
+Run the simulation and  I observe 
+Which LED is brightest?
+Which is dimmest?
+Do they all still blink?
+
 
