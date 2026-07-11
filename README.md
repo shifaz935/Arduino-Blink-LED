@@ -13,6 +13,10 @@ and Build the Blink LED circuit three times:
 With 100 Ω
 With 220 Ω
 With 1 kΩ
+Run the simulation and  I observe 
+Which LED is brightest?
+Which is dimmest?
+Do they all still blink?
 
 
 
